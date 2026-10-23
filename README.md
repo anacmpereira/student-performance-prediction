@@ -8,6 +8,9 @@ Projeto de regressão para prever a nota de exame de estudantes e identificar qu
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-regressão-orange)
 ![XGBoost](https://img.shields.io/badge/XGBoost-boosting-green)
 
+(imagens/correlacao.png)
+(imagens/scatterplot.png)
+
 ---
 
 ## 📌 Objetivo
